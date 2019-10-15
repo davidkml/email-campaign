@@ -7,4 +7,8 @@ Enjoy! :)
 **Data source:**
 Source shall remain anonymous.
 
+<<<<<<< HEAD
 **Note:** If an error occurs when rendering the file [email-campaign.ipynb](./email-campaign.ipynb), it appears to be caused by an internal bug in Github. Please copy and paste the URL of that file from Github to [Jupyter nbviewer](https://nbviewer.jupyter.org) to view the rendered notebook or try this [link](https://nbviewer.jupyter.org/github/davidkml/email-campaign/blob/master/email-campaign.ipynb) instead.
+=======
+**Note:** If an error occurs when rendering the file [email-campaign.ipynb](./email-campaign.ipynb), it appears to be caused by an internal bug in Github. Please copy and paste the URL of that file from Github to [Jupyter nbviwer](https://nbviewer.jupyter.org) to view the rendered notebook or try this [link](https://nbviewer.jupyter.org/github/davidkml/email-campaign/blob/master/email-campaign.ipynb) instead.
+>>>>>>> 6ccca320a1f844ce7879f390798df864da739cb7
